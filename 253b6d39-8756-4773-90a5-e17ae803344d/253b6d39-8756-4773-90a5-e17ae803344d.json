@@ -9,7 +9,7 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
       "DateCreation": "10/5/2026 7:26:54 PM +00:00",
-      "DateModify": "10/5/2026 1:57:04 PM +00:00",
+      "DateModify": "10/5/2026 1:57:29 PM +00:00",
       "Title": "S2",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -26,8 +26,8 @@
         "BuildingBlocks": [
           {
             "Title": "Log message",
-            "XPosition": "6360",
-            "YPosition": "6110",
+            "XPosition": "6370",
+            "YPosition": "6150",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -45,7 +45,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "2eae6a75-03b8-4ead-b80b-b4dae8aa00e5",
+                "ValueId": "e14f259f-370a-4549-a7fb-b4da05db00e6",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -60,7 +60,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "456074eb-dc25-4c62-9720-b4dae8aa00e5",
+                    "ValueId": "631e17a7-5dbe-46f9-bcab-b4da05db00e6",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "True",
@@ -70,7 +70,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "XYZ",
-                      "Id": "456074eb-dc25-4c62-9720-b4dae8aa00e5"
+                      "Id": "631e17a7-5dbe-46f9-bcab-b4da05db00e6"
                     }
                   }
                 ],
@@ -84,7 +84,7 @@
                 "Key": "Header",
                 "Title": "Log message",
                 "SortOrder": "0",
-                "ValueId": "e32fdf5e-ea20-4017-8b7a-b4dae8aa00e5",
+                "ValueId": "413353ce-1007-4f94-a354-b4da05db00e6",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -95,7 +95,7 @@
                   {
                     "OutputFlowPropertyId": "be2ce56b-5baf-4f0c-8362-ec14224e162d",
                     "InputFlowPropertyId": "bc41b0b7-1a2f-4312-9839-4b0880a8a2ba",
-                    "Id": "11ec3a7d-777f-45f8-a12b-b4dae8aa00e5",
+                    "Id": "ec6a12b7-64a7-4daa-b1d9-b4da05db00e6",
                     "WireGuides": []
                   }
                 ]
@@ -123,7 +123,7 @@
                 "Key": "Header",
                 "Title": "Log message",
                 "SortOrder": "0",
-                "ValueId": "3d727d7d-24ff-4b66-8a2b-b4dae8aa00e5",
+                "ValueId": "406fc01e-5a58-4c19-813e-b4da05db00e6",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -134,7 +134,7 @@
                   {
                     "OutputFlowPropertyId": "00df1bd0-63f9-410a-935b-265d920490cb",
                     "InputFlowPropertyId": "be2ce56b-5baf-4f0c-8362-ec14224e162d",
-                    "Id": "81b0c5a1-3e51-4bfb-a360-b4dae8aa00e5",
+                    "Id": "11d8b3b4-2153-4d15-aece-b4da05db00e6",
                     "WireGuides": []
                   }
                 ]
@@ -162,7 +162,7 @@
                 "Key": "Header",
                 "Title": "Pass",
                 "SortOrder": "0",
-                "ValueId": "158ce7dd-119a-4958-9284-b4dae8aa00e5",
+                "ValueId": "1f9843c8-bce4-4f3f-ad59-b4da05db00e6",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -173,7 +173,7 @@
                   {
                     "OutputFlowPropertyId": "bc41b0b7-1a2f-4312-9839-4b0880a8a2ba",
                     "InputFlowPropertyId": "90a621af-b0b3-4d44-9e01-746c5f55e497",
-                    "Id": "daeb7c48-6897-4834-b0f1-b4dae8aa00e5",
+                    "Id": "69b25fbf-63d9-4953-bf00-b4da05db00e6",
                     "WireGuides": []
                   }
                 ]
